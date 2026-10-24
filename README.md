@@ -9,5 +9,5 @@
 - Link Form: https://forms.gle/uMfVdnxjoB9ER7jj9
 ## Website Giới thiệu bản thân
 - Link: file:///C:/Users/vypt/Downloads/index%20(1).html
-## Bảng quản lý dự án Treollo
-- Link: https://trello.com/b/A6nq1o7V/phat-tri%E1%BB%83n-va-gi%E1%BB%9Bi-thi%E1%BB%87u-m%E1%BB%99t-%E1%BB%A9ng-d%E1%BB%A5ng-d%C6%A1n-gi%E1%BA%A3n 
+## Bảng quản lý dự án Treolloht
+-Link:https://trello.com/b/hzQssJuL/d%E1%BB%B1-an-xay-d%E1%BB%B1ng-website-gi%E1%BB%9Bi-thi%E1%BB%87u-tr%C6%B0%E1%BB%9Dng-d%E1%BA%A1i-h%E1%BB%8Dc
